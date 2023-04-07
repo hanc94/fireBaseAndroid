@@ -23,10 +23,10 @@ import org.json.*;
 public class MainActivity extends AppCompatActivity {
 
     //Project name
-    private final String project="changua";
+    private final String project="xxxx";
 
     //Secret
-    private final String secret="iaGwhq1kLmIm2fwKQIOBw8Px3JT00LSIRoxQlBJN";
+    private final String secret="xxxxx";
 
     //Referencias a los objetos de la interfaz gráfica de usuario
     public EditText outputtext;
